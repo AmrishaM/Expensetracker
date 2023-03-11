@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YogeshPrasanna/Expense-Manager.git"
+    "url": "git+https://github.com/AmrishaM/Expensetracker.git"
   },
   "keywords": [
     "html",
@@ -25,10 +25,9 @@
     "expense",
     "tracker"
   ],
-  "author": "Yogesh",
-  "license": "ISC",
+  "author": "AmrishaM",
   "bugs": {
-    "url": "https://github.com/YogeshPrasanna/Expense-Manager/issues"
+    "url": "https://github.com/AmrishaM/Expensetracker/issues"
   },
-  "homepage": "https://github.com/YogeshPrasanna/Expense-Manager#readme"
+  "homepage": "https://github.com/AmrishaM/Expensetracker#readme"
 }
